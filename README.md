@@ -4,7 +4,7 @@
 
 
 👨‍💻 What I’m working on
-Smart Inventory Management System: An intelligent system that supports real-time inventory updates, barcode scanning, and more.
+Smart Inventory Management System: An intelligent  system that supports real-time inventory updates, barcode scanning, and more.
 
 
 🛠 My Tech Stack
