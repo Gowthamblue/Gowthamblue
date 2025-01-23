@@ -19,7 +19,7 @@
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/> 
 ### Platform where I practice
-<img width="48" height="48" src="https://img.icons8.com/color/48/GeeksforGeeks.png" alt="GeeksforGeeks"/><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/GeeksforGeeks.png" alt="GeeksforGeeks"/> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="Leet Code"/> <img width="48" height="48" src="https://cdn.iconscout.com/icon/free/png-512/free-hackerrank-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-3-pack-logos-icons-3030100.png?f=webp&w=256" alt="Hacker Rank"/> <img width="48" height="48" src="https://img.icons8.com/?size=100&id=vAtJFm3hwtQw&format=png&color=000000" alt="Code Chef"/> <img width="48" height="48" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-2944796.png?f=webp&w=256" alt="CodeForces"/>
 
 
 
