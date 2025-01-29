@@ -1,4 +1,4 @@
-#  Hi there 👋 It's me Gowtham
+##  Hi there 👋 It's me Gowtham
 
  **Passionate software enthusiast with a strong foundation in programming and problem-solving.**
 <img align="right" width="370" height="410" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdoMG9xY2UxaWFjMXIxc2JvaHN1ODB1OGRpbW83YmJ6OHU4bHRqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JD4EU7oRyzbXjRyDAQ/giphy.webp">
