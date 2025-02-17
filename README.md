@@ -12,7 +12,7 @@
 
 
 ### I can code in
- <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/683px-ISO_C%2B%2B_Logo.svg.png" /> <img height="50" width="50" src="https://cdn-icons-png.flaticon.com/128/226/226777.png" />  <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
+ <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/683px-ISO_C%2B%2B_Logo.svg.png" /> <img height="50" width="50" src="https://cdn-icons-png.flaticon.com/128/226/226777.png" />  <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://static-00.iconduck.com/assets.00/visual-studio-code-icon-256x255-hciehfs3.png"/>  <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"/> <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png"/> 
