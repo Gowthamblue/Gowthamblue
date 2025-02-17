@@ -1,7 +1,6 @@
 ##  Hi there 👋 It's me Gowtham
  **Passionate software enthusiast with a strong foundation in programming and problem-solving.**
-<img align="right" width="370" height="410" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdoMG9xY2UxaWFjMXIxc2JvaHN1ODB1OGRpbW83YmJ6OHU4bHRqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JD4EU7oRyzbXjRyDAQ/giphy.webp">
-- 🔭 Here's my [portfolio](https://gowthambluewebresume.my.canva.site/)                                                 
+- 🔭 Here's my [portfolio](https://gowthambluewebresume.my.canva.site/)                                                 <img align="right" width="370" height="310" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*LjjxYJ_z_4Raf_zx.jpg">
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Data Science and Web Development.
 - 🤔 I’m looking for help with Placements in FAANG
