@@ -1,6 +1,6 @@
 ##  Hi there 👋 It's me Gowtham
  **Passionate software enthusiast with a strong foundation in programming and problem-solving.**
-- 🔭 Here's my [portfolio](https://gowthamspersonalportfolio.netlify.app/)                                                 <img align="right" width="370" height="310" src="CoverImg.png">
+- 🔭 Here's my [portfolio](https://gowthams05.netlify.app/)                                                 <img align="right" width="370" height="310" src="CoverImg.png">
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Data Science and Web Development.
 - 🤔 I’m looking for help with Placements in FAANG
